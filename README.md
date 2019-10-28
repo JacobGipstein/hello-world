@@ -1,5 +1,5 @@
 # hello-world
-Just another depository.
+Hello humans!
 
 I am 13 years old.
 I have a family.
